@@ -9,3 +9,7 @@
 
 ## Android 安装引用的检测及第三市场安装
 - 位置：utls/app\_install\_check\.java
+
+## ToastUtil
+对Android的Toast，避免Toast卡顿现象
+- 位置：utils/ToastUtil\.java
